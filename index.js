@@ -247,7 +247,7 @@ function tallyUpDonations(runners) {
 }
 
 /////////////// CLOSURES ///////////////
-/////////////// CLOSURES ///////////////
+/////////////// CLOSURES ///////
 
 /**
  * ### Challenge `counterMaker`
@@ -271,6 +271,7 @@ function counterMaker() {
   return counter;
   // BROKEN CODE ENDS
 }
+
 
 /**
  * ### Challenge `counterMakerWithLimit`
